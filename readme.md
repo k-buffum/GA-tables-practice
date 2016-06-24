@@ -1,3 +1,7 @@
+#This is a General Assembly assignment, copied from their notes and completed.
+
+-----------------------------------------------------------------------------------------------
+
 #Turning Text into Tables
 
 This exercise involves converting a given skeleton text file into an HTML table. The text file contains a list of the top 10 movies of all time, according to the top of this list of [AFI's 100 GREATEST AMERICAN MOVIES OF ALL TIME](http://www.afi.com/100Years/movies.aspx)
